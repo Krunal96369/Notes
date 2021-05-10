@@ -5,6 +5,7 @@ App made in Flutter and  Sqflite Database to store locally on your Android or iO
 |              App Preview             |
 | :----------------------------------: |
 |<img src="preview.gif" width="350"></a>|
+|.                                     |
 | :----------------------------------: |
 ### ⚡&ensp;Social Media
 
