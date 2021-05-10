@@ -1,7 +1,11 @@
 # Notes
 
 App made in Flutter and  Sqflite Database to store locally on your Android or iOS device by using Raw SQL statements.
-
+### 🔥&ensp; Preview
+|              App Preview             |
+| :----------------------------------: |
+|<img src="preview.gif" width="350"></a>|
+| :----------------------------------: |
 ### ⚡&ensp;Social Media
 
 
